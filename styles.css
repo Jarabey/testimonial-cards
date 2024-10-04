@@ -1,0 +1,57 @@
+body{
+    font-family: poppins, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #191919;
+    padding: 30px;
+}
+
+.first ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.first li{
+    list-style: none;
+    flex-direction: row;
+}
+
+.list-first{
+    margin-right: 70px;
+    margin-left: 300px;
+    
+}
+
+.list-first summary{
+    background-color: #191919;
+    color: #fff;
+    padding: 30px;
+    border: 1px solid #191919;
+    border-radius: 10px;
+}
+
+.list-first img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.list-second{
+    margin-right: 300px;
+}
+
+.list-second img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+}
+
+.card h4, p{
+    flex-direction: row;
+}
