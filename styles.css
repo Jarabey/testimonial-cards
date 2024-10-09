@@ -23,6 +23,12 @@ body{
     
 }
 
+.list-first div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .list-first summary{
     background-color: #191919;
     color: #fff;
@@ -49,7 +55,8 @@ body{
 
 .card{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    margin: 0 auto;
 }
 
 .card h4, p{
