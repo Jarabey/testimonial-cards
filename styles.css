@@ -17,6 +17,8 @@ body{
     list-style: none;
     flex-direction: row;
     margin: 0px;
+    justify-content: space-between;
+    padding: 30px;
 }
 
 .list-first{
