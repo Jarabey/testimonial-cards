@@ -5,13 +5,10 @@ body{
     line-height: 1.7;
     color: #191919;
     padding: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
-.main{
-    display: flex;
-    flex-direction: column;
-    margin: 300px;
-}
 
 .first ul{
     display: flex;
