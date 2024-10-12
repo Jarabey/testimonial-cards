@@ -61,8 +61,10 @@ body{
     display: flex;
     flex-direction: column;
     margin: 0 auto;
+    padding: 30px
 }
 
 .card h4, p{
-    flex-direction: ;
+    flex-direction: row;
+    margin: 0px;
 }
