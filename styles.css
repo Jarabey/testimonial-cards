@@ -101,4 +101,25 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-}  
+    padding-left: 70px;
+}
+
+.second-cards img{
+    height: 290px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.information p{}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #191919;
+    color: #fff;
+    border-radius: 20px;
+    padding: 30px;
+    margin-bottom: 0px;
+    height: 230px;
+}
