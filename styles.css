@@ -10,6 +10,7 @@ body{
 .first ul{
     display: flex;
     flex-direction: row;
+    margin: 0px;
 }
 
 .first li{
@@ -60,5 +61,5 @@ body{
 }
 
 .card h4, p{
-    flex-direction: row;
+    flex-direction: ;
 }
