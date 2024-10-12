@@ -14,6 +14,7 @@ body{
     display: flex;
     flex-direction: row;
     margin: 0px;
+    
 }
 
 .first li{
@@ -25,9 +26,8 @@ body{
 }
 
 .list-first{
+    margin-top: 0px;
     margin-right: 70px;
-    margin-left: 300px;
-    
 }
 
 .list-first div{
@@ -56,7 +56,8 @@ body{
     border: 2px solid rgba(0,0,0,0.92);
     border-radius: 20px;
     margin-bottom: 0px;
-    height: 240px;    
+    height: 240px;   
+     
 }
 
 .list-second img{
@@ -110,8 +111,9 @@ body{
     margin-right: 20px;
 }
 
-.information p{}
-
+.stars{
+    font-size: 30px;
+}
 .information{
     display: flex;
     flex-direction: column;
