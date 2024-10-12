@@ -16,6 +16,7 @@ body{
 .first li{
     list-style: none;
     flex-direction: row;
+    margin: 0px;
 }
 
 .list-first{
