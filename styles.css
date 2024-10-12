@@ -96,3 +96,9 @@ body{
     display: flex;
     flex-direction: row;
 }
+
+.second-cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}  
