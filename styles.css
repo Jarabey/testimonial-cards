@@ -125,3 +125,11 @@ body{
     margin-bottom: 0px;
     height: 230px;
 }
+
+.carousel-container{
+    margin-right: 300px;
+    border: 2px solid rgba(0,0,0,0.92);
+    border-radius: 20px;
+    margin-bottom: 0px;
+
+}
