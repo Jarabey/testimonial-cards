@@ -134,3 +134,11 @@ body{
     margin-left: 70px;
     padding: 30px;
 }
+
+.carousel-container img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+
+}
